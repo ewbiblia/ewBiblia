@@ -57,7 +57,7 @@ amp-wistia-player {margin:5px 0px;}
 .hide{display:none}
 .amp-wp-article amp-addthis{bottom: -38px;}
 .amp-wp-content,.amp-wp-title-bar div { margin: 0 auto;max-width: 1000px;  }
-html{background: #0a89c0;} body{background: #fff;color: #353535;font-family: 'Merriweather', 'Times New Roman', Times, Serif;font-weight: 300;line-height: 1.75em;}
+html{background: #fff;} body{background: #fff;color: #353535;font-family: 'Merriweather', 'Times New Roman', Times, Serif;font-weight: 300;line-height: 1.75em;}
 ol, ul {list-style-position: inside;}
 p,ol,ul,figure {margin: 0 0 1em;padding: 0;} 
 
