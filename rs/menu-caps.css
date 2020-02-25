@@ -71,7 +71,7 @@ body {
 /* para 950px o menos */
 @media screen and (max-width:950px) {
   body{
-    width: 1550px;
+    
   }
 
   /* para 750px o menos */
@@ -81,12 +81,12 @@ body {
     align-items: flex-start;
   }
 
- /* para 550px o menos */
- @media screen and (max-width:550px) {
+ /* para 600px o menos */
+ @media screen and (max-width:600px) {
   body{
     justify-content: center;
     align-items: flex-start;
   }
   .headerimg {
-    width: 95%;
+    width: 100%;
   }
