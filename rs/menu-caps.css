@@ -7,8 +7,6 @@ a{
   text-decoration:none;
 }
 
-
-
 body {
   margin: 0;
   padding: 0;
@@ -22,6 +20,9 @@ body {
   background-color: #ffffff;
 }
 
+.headerimg {
+  width: 440px;
+}
 
 .button {
   position: relative;
@@ -77,16 +78,11 @@ body {
   /* para 750px o menos */
 @media screen and (max-width:750px) {
   body{
-    justify-content: center;
-    align-items: flex-start;
+
   }
 
- /* para 600px o menos */
- @media screen and (max-width:600px) {
-  body{
-    justify-content: center;
-    align-items: flex-start;
-  }
+ /* para 440px o menos */
+ @media screen and (max-width:440px) {
   .headerimg {
     width: 100%;
   }
